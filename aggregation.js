@@ -657,3 +657,4 @@ resumenGeneral.forEach(sede => {
 });
 
 console.log("=== FIN DE CONSULTAS ANALÍTICAS ===");
+
